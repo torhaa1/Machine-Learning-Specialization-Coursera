@@ -60,10 +60,6 @@
 
 - [**Week 2: Neural network details**](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2)
     - [Lecture: NN Training, Activation functions, Multiclass classification, Backprop *](https://github.com/torhaa1/Machine-Learning-Specialization-Coursera/blob/main/lectures/Course_2_advanced_algorithms/week2/C2_W2.pdf)
-    - [Practice quiz : Neural Networks Training](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Neural-Network-Training)
-    - [Practice quiz : Activation Functions](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
-    - [Practice quiz : Multiclass Classification](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-quiz-Multiclass-Classification)
-    - [Practice quiz : Additional Neural Networks Concepts](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Additional-Neural-Network-Concepts)
     - [Optional Labs](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs)
         - [RElu](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Relu.ipynb)
         - [Softmax](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
@@ -80,9 +76,6 @@
 
 - [**Week 4: Decision trees**](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4)
     - [Lecture: Impurity and information gain, One-hot encoding, Tree ensembles *](https://github.com/torhaa1/Machine-Learning-Specialization-Coursera/blob/main/lectures/Course_2_advanced_algorithms/week4/C2_W4.pdf)
-    - [Practice quiz : Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-trees)
-    - [Practice quiz : Decision Trees Learning](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-decision-tree-learning)
-    - [Practice quiz : Decision Trees Ensembles](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/practice-quiz-tree-ensembles)
     - [Programming Assignment](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/tree/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1)
         - [Decision Trees](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/main/C2%20-%20Advanced%20Learning%20Algorithms/week4/C2W4A1/C2_W4_Decision_Tree_with_Markdown.ipynb)
 
